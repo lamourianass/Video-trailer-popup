@@ -24,7 +24,18 @@ body {
   font-weight: 500;
 }
 
+.main-container p {
+  color: #fff;
+  margin: 15px 0;
+}
 
+.btn {
+  background-color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
 
 .trailer-container {
   display: none;
