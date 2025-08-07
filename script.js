@@ -1,1 +1,2 @@
-const btnEl = document.querySelectorAll("btn")
+const btnEl = document.querySelectorAll(".btn")
+
