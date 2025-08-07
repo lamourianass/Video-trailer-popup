@@ -7,3 +7,4 @@ function btnClicked() {
 }
 
 btnEl.addEventListener("click", btnClicked)
+closeIconEl.addEventListener("click" () => {})
