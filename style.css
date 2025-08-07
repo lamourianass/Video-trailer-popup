@@ -19,7 +19,10 @@ body {
   margin-bottom: 15px;
 }
 
-
+.main-container h1 {
+  color: #fff;
+  font-weight: 500;
+}
 
 .trailer-container {
   display: none;
