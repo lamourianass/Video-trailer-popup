@@ -11,6 +11,7 @@ function btnClicked() {
 function closeIcon() {
   trailerContainerEl.classList.add("active")
   videoEl.pause()
+  videoEl.currentTime = 0
 }
 
 btnEl.addEventListener("click", btnClicked)
