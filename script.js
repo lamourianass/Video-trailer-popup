@@ -10,7 +10,7 @@ function btnClicked() {
 
 function closeIcon() {
   trailerContainerEl.classList.add("active")
-  
+  videoEl.pause()
 }
 
 btnEl.addEventListener("click", btnClicked)
