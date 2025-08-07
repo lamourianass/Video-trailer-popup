@@ -6,9 +6,9 @@ function btnClicked() {
   trailerContainerEl.classList.remove("active")
 }
 
-function closeIconEl() {
-
+function closeIcon() {
+  console.log("Close icon clicked")
 }
 
 btnEl.addEventListener("click", btnClicked)
-closeIconEl.addEventListener("click", closeIconEl)
+closeIconEl.addEventListener("click", closeIcon)
