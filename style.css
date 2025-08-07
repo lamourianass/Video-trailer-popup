@@ -59,6 +59,7 @@ body {
 
 .active.trailer-container {
   visibility: hidden;
+  opacity: 0;
 }
 
 .trailer-container video {
