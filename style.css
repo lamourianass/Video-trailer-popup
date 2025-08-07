@@ -8,3 +8,8 @@ body {
   align-items: center;
   background-color: #000;
 }
+
+.main-container {
+  max-width: 550px;
+
+}
