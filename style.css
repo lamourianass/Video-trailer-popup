@@ -55,6 +55,7 @@ body {
   justify-content: center;
   align-items: center;
   opacity: 1;
+  transition: opacity .4s;
 }
 
 .active.trailer-container {
