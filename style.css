@@ -38,6 +38,11 @@ body {
   border-radius: 5px;
 }
 
+.btn:hover,
+.btn:focus {
+  background-color: orange;
+}
+
 .trailer-container {
   display: none;
 }
