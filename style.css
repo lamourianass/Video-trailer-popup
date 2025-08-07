@@ -13,3 +13,9 @@ body {
   max-width: 550px;
 
 }
+
+.main-container img {
+  max-width: 100%;
+  margin-bottom: 15px;
+}
+
